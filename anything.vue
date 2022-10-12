@@ -2,6 +2,8 @@
   <!-- <button @click="toggle">Toggle</button> -->
   <a href="#" @click="view('home')">Home</a><br />
   <a href="#" @click="view('counter')">Counter</a>
+
+  <NuxtPage />
   <LazyHomeWelcome v-if="page === 'home'" />
   <LazyCounter v-if="page === 'counter'" />
   <!-- <component :is="MyComponent" /> -->
