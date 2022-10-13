@@ -7,9 +7,21 @@
       </div>
     </nuxt-link>
     <nuxt-link to="/iphone/iphone-12-mini" class="shadow-lg border rounded-lg text-center">
-      <h1>Iphone12 Mni</h1>
+      <h1>Iphone12 Mini</h1>
       <div class="flex justify-center">
         <img width="100" src="/images/iphone12mini.jpg" alt="" />
+      </div>
+    </nuxt-link>
+    <nuxt-link to="/iphone/iphone-11" class="shadow-lg border rounded-lg text-center">
+      <h1>Iphone11</h1>
+      <div class="flex justify-center">
+        <img width="100" src="/images/iphone11.jpg" alt="" />
+      </div>
+    </nuxt-link>
+    <nuxt-link to="/iphone/iphone-16" class="shadow-lg border rounded-lg text-center">
+      <h1>Iphone-16</h1>
+      <div class="flex justify-center">
+        <img width="100" src="/images/iphone16.jpg" alt="" />
       </div>
     </nuxt-link>
   </div>
